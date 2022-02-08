@@ -1,5 +1,9 @@
-### Hi there 👋
-
+* 👋 Hi, I'm Artem.
+* 👀 I'm intrested Data Science and especially Machine Learning.
+* 🔭 I’m currently working on Data Science and Deep Learning progect.
+* 🌱 I’m currently learning NLP.
+* 📫 You can find me on Kaggle https://www.kaggle.com/artemburenok
+* 📫 You can reach me on gmail strelkov973@gmail.com 
 <!--
 **ArtemBurenok/ArtemBurenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
