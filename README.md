@@ -1,4 +1,4 @@
-* 👋 Hi, I'm Artem.
+# Hey, There! 👋
 * 👀 I'm intrested Data Science, Data Engineering and Python programming.
 * 📫 You can find me on Kaggle https://www.kaggle.com/artemburenok
 * 📫 You can reach me on gmail burenok023@gmail.com 
