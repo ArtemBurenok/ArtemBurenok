@@ -2,6 +2,16 @@
 
 ###
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Artem from Saint-Petersburg. I work in data analytics and artificial intelligence. I graduated in 2024 with a degree in Applied Mathematics and am currently enrolled in the Artificial Intelligence and Data Science program.<br><br>I started my journey as a Python developer. After that I worked as a data analyst in the banking industry. Then I worked as a data scientist. In this position I solved various problems related to computer vision and NLP. Now I am working as a data engineer.</p>
+
+###
+
 <div align="left">
   <a href="https://mail.google.com/burenok023@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -13,17 +23,6 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Artem from Saint-Petersburg. I work in data analytics and artificial intelligence. I graduated in 2024 with a degree in Applied Mathematics and am currently enrolled in the Artificial Intelligence and Data Science program.<br><br>I started my journey as a Python developer. After that I worked as a data analyst in the banking industry. Then I worked as a data scientist. In this position I solved various problems related to computer vision and NLP. Now I am working as a data engineer.</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
