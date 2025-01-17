@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Artem from Saint-Petersburg. I work in data analytics and artificial intelligence. I graduated in 2024 with a degree in Applied Mathematics and am currently enrolled in the Artificial Intelligence and Data Science program.<br><br>I started my journey as a Python developer. After that I worked as a data analyst in the banking industry. Then I worked as a data scientist. In this position I solved various problems related to computer vision and NLP. Now I am working as a data engineer.</p>
+<p align="left">I'm Artem from Saint-Petersburg. I work in data analytics and artificial intelligence. I graduated in 2024 with a degree in Applied Mathematics and am currently enrolled in the Artificial Intelligence and Data Science program.<br><br>I started my journey as a Python developer. After that I worked as a data analyst in the banking industry. Then I worked as a data scientist. In this position I solved various problems related to NLP.</p>
 
 ###
 
